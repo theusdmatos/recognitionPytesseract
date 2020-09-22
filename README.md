@@ -1,4 +1,4 @@
-# recognitionPytesseract
+## Simple-OCR 
 
 
-#Simple OCR with pytesseract. 
+# Simple OCR with pytesseract. 
